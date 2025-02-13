@@ -18,10 +18,10 @@ I'm a passionate Student in RGMCET, Nandyal. I'm persuing Bachelors in Electroni
 ## 🚀 Projects
 Here are some of my notable projects:
 
-1. "Number Guessing game"()
+1. "Number Guessing game"(https://github.com/pranavbellamkonda10089/C-Language/blob/main/number%20guessing%20game.cpp);
    - its a simple game using if-else statements in c language
 
-2. [Project Name](GitHub Repo Link)
+2. "TIC TAC TOE"()
    - Description of the project and key features.
 
 3. [Project Name](GitHub Repo Link)
