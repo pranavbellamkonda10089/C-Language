@@ -26,6 +26,6 @@ Here are some of my notable projects:
    - 
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/pranav -bellamkonda-8879682a2)
+- [LinkedIn](https://www.linkedin.com/in/pranav-bellamkonda-8879682a2)
 
 
