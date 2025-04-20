@@ -24,12 +24,8 @@ Here are some of my notable projects:
 2. "TIC TAC TOE"(https://github.com/pranavbellamkonda10089/C-Language/blob/main/tictactoe.c)
    - Description of the project and key features.
    - 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Personal Website/Portfolio](Your Portfolio URL)
+- [LinkedIn](https://www.linkedin.com/in/pranav -bellamkonda-8879682a2)
+
 
